@@ -310,13 +310,8 @@ Galeotti M., Lanza A., Manera M. (2002), “Rockets and feathers revisited: an i
 
 [SSRN](http://ssrn.com/author=299771)
 
-[BOA-IRIS](https://boa.unimib.it/simple-search?query=matteo+manera)
-
 [ORCID](https://orcid.org/0000-0003-1220-8995)
 
-[ResearchGate](https://www.researchgate.net/profile/Matteo_Manera)
-
-[Academia](https://unimb.academia.edu/MatteoManera)
 
 
 
