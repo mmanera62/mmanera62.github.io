@@ -147,7 +147,165 @@ Manera M. (1994), “Factor demands and substitution in the Italian manufacturin
 
 Manera M. (1991), “Multivariate non-nested tests for comparing the empirical performance of alternative factor demand systems”, *Giornale degli Economisti e Annali di Economia* **50**, 441-474 (ISSN: 0017-0097; [Link](http://www.jstor.org/stable/23247058)).
 
+*2. Refereed books, contributions to  refereed books and technical reports*
+Manera M. (ed.) (2017), *Energy Governance, Institutions and Policy in China and in the EU. A Comparative Assessment*, FEEM Press, Milan, Italy (ISBN: 9788894170146).
+
+Bastianin A., Bigano A., Cattaneo C., Cassinelli M., Cologni A., Manera M., Marazzi L., Markandya A., Pierfederici R., Plotegher M. Sferra F. (2017), "Energy Governance, Institutions and Policies in the EU", in M. Manera (ed.), *Energy Governance, Institutions and Policies in China and the EU*, FEEM Press, Milan, Italy (ISBN: 9788894170146).
+
+Manera M. (ed.) (2014), *Recent Approaches to Modelling Oil and Energy Commodity Prices*, Special issue of Energy Economics, Elsevier, Vol. 46, Supplement 1, S1-S80 (ISSN: 0140-9883).
+
+Bastianin A., Manera M., Markandya A., Scarpa E. (2014), “Evaluating the empirical performance of alternative econometric models for oil price forecasting”, in S. Ramos and H. Veiga, *The Interrelationship Between Financial and Energy Markets, Lecture Notes in Energy*, Vol. 54, Springer-Verlag, Berlin, Chapter 7, 153-177 (ISBN: 978-3-642-55382-0; [DOI](https://doi.org/10.1007/978-3-642-55382-0_7)).
+
+Manera M. (ed.) (2013), *Financial Speculation in the International Oil Markets and the Determinants of the Price of Oil*, Special issue of The Energy Journal, International Association for Energy Economists, Vol. 34, N. 3 (ISSN: 0195-6574; [DOI](https://doi.org/10.5547/01956574.34.3)).
+
+Bei J., Manera M. (2009) (eds.), *China’s Energy Management Policies and Measures and Their International Comparison*, Sino-Italian Cooperation Program for Environmental Protection, Institute of Industrial Economics of the Chinese Academy of Social Sciences (CASS) and FEEM, final report.
+
+Manera M. (2008), “Foreword”, in R. Shareef, S. Hoti and M. McAleer, *International Tourism Demand and Country Risk for Small Island Tourism Economies*, Edward Elgar, Cheltenham, UK, vii-xi (ISBN: 978-1-84720-649-7).
+
+Busetti G., Manera M. (2006), “STAR-GARCH models for stock market interactions in the Pacific Basin region, Japan and US”, in G.P. Severov (ed.), *International Finance and Monetary Policy*, Nova Science Publishers, New York, 135-156 (ISBN: 1-60021-103-8).
+
+Calderini M., Manera M., Scellato G., Ronco M., Vezzulli A. (2006), *Forecasting Patent Filings in the Telecommunication Industry*, Politecnico di Torino and European Patent Office, Munich, Germany, final report.
+
+Manera M., Galeotti M. (2005), *Microeconometria. Metodi e Applicazioni*, Roma, Carocci (ISBN: 88-430-3269-0).
+
+Manera M., McAleer M., Grasso M. (2004), “Modelling dynamic conditional correlations in the volatility of spot and forward oil price returns”, in C. Pahl, S. Schmidt and T. Jakeman (eds.), *iEMSs 2004 International Congress: “Complexity and Integrated Resources Management”*, International Environmental Modelling and Software Society, Osnabrueck, Germany.
+
+Manera M. (2002), “Econometrics”, *Journal of Economics (Zeitschrift für Nationalökonomie)* **75**, 262-267 (review of the book Econometrics, by Fumio Hayashi, 2000, Princeton, Princeton University Press).
+
+Galeotti M., Lanza A., Manera M. (2002), “Price asymmetries in international gasoline markets”, in A.E. Rizzoli and A.J. Jakeman (eds.), *Integrated Assessment and Decision Support*, Proceedings of the First Biennial Meeting of the International Environmental Modelling and Software Society, Università della Svizzera Italiana, Lugano, 2, 472-477.
+
+Manera M., McAleer M. (1999), “Testing non-nested systems of factor demand equations”, in L.T. Oxley, F. Scrimgeour and M. McAleer (eds.), *Proceedings of the International Congress on Modelling and Simulation*, University of Waikato, Hamilton, New Zealand, 2, 435-440.
+
+Manera, M. (1998), *Empirical Factor Demands: Specification, Estimation and Inference*, Florence: European University Institute, 1998, EUI, ECO, PhD Thesis
+([Link](https://hdl.handle.net/1814/4998); [DOI](https://doi.org/10.2870/7057270)).
+
+*3. Working papers*
+Casoli C., Manera M., Pedini L., Valenti D. (2025), ““It’s not the heat, it’s the humidity!” New climate indices for Europe with a multilevel factor model”, *FEEM Working Paper n.23.2025* (ISSN: 2037-1209).
+
+Pakrooh P., Manera M. (2024), “Causality, connectedness, and volatility pass-through among energy-metal-stock-carbon markets: new evidence from the EU”, *FEEM Working Paper n.22.2024* (ISSN: 2037-1209).
+
+Ahmadi M., Casoli C., Manera M., Valenti D. (2022), “Modelling the effects of climate change on economic growth: a Bayesian Structural Global Vector Autoregressive approach”, *FEEM Working Paper n.46.2022* (ISSN: 2037-1209).
+
+Casoli C., Manera M., Valenti D. (2022), “Energy shocks in the Euro area: disentangling the pass-through from oil and gas prices to inflation”, *FEEM Working Paper n.45.2022* (ISSN: 2037-1209).
+
+Bonacorsi L., Cerasi V., Galfrascoli P., Manera M. (2022), “ESG factors and firms’ credit risk”, *FEEM Working Paper n.36.2022* (ISSN: 2037-1209).
+
+Valenti D., Bastianin A., Manera M. (2022), “A weekly structural VAR model of the US crude oil market”, *FEEM Working Paper n.11.2022* (ISSN: 2037-1209).
+
+Cedic S., Mahmoud A., Manera M., Uddin G.S. (2021), “Uncertainty and stock returns in energy markets: a quantile regression”, *FEEM Working Paper n.11.2021* (ISSN: 2037-1209).
+
+Cedic S., Mahmoud A., Manera M., Uddin G.S. (2021), “Information diffusion and spillover dynamics in renewable energy markets”, *FEEM Working Paper n.10.2021* (ISSN: 2037-1209).
+
+Maranzano P., Cerdeira Bento J.P., Manera M. (2021), “The role of education and income inequality in environmental quality. A panel data analysis of the EKC hypothesis on OECD countries”, *FEEM Working Paper n.8.2021* (ISSN: 2037-1209).
+
+Bastianin A., Manera M. (2020), “A test of time reversibility based on L-moments with an application to the business cycles of the G7 economies”, *DEMS Working Paper Series n.445.2020*.
+
+Argentieri A., Canova L., Manera M. (2019), “Coaches on fire or firing the coach? Evidence of the impact of coach changes on team performance from Italian Serie A”, *FEEM Working Paper n.23.2019* (ISSN: 2037-1209).
+
+Ahmadi M., Manera M., Sadeghzadeh M. (2018), “The investment-uncertainty relationship in the oil and gas industry”, *FEEM Working Paper n.5.2018* (ISSN: 2037-1209).
+
+Valenti D., Manera M., Sbuelz A. (2018), “Interpreting the oil risk premium: do oil price shocks matter?”, *FEEM Working Paper  n.3.2018* (ISSN: 2037-1209).
+
+Bastianin A., Lanza A., Manera M. (2016), “Economic impacts of El Niño Southern Oscillation: evidence from the Colombian coffee market”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.73.2016* (ISSN: 2037-1209).
+
+Manera M., Serletis A. (2016), “Introduction to Macroeconomic Dynamics special issue on ‘Dynamics of oil and commodity prices’”, University of Calgary, Canada, Department of Economics, *Working Paper  n.30.2016*.
+
+Bashiri Behmiri N., Manera M., Nicolini M. (2016), “Understanding dynamic conditional correlations between commodities futures markets”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.17.2016* (ISSN: 2037-1209).
+
+Ahmadi M., Bashiri Behmiri N., Manera M. (2015), “How is volatility in commodity markets linked to oil price shocks?”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.101.2015* (ISSN: 2037-1209).
+
+Bastianin A., Galeotti M., Manera M. (2015), “The impacts of exogenous oil supply shocks on Mediterranean economies”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.100.2015* (ISSN: 2037-1209).
+
+Bastianin A., Galeotti M., Manera M. (2015), “The impacts of exogenous oil supply shocks on Mediterranean economies”, Università degli Studi di Milano, Department of Economics, Management and Quantitative Methods, *Working Paper n. 2015-15*.
+
+Bastianin A., Galeotti M., Manera M. (2015), “The impacts of exogenous oil supply shocks on Mediterranean economies”, IEFE - Centro di Ricerca in Economia e Politiche dell’Energia e dell’Ambiente, Università Bocconi, Milano, *IEFE Working Paper  n.82* (ISSN: 1973-0381).
+
+Bastianin A., Conti F., Manera M. (2015), “The impacts of oil price shocks on stock market volatility: evidence from the G7 countries”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.99.2015* (ISSN: 2037-1209).
+
+Ahmadi M., Manera M., Sadeghzadeh M. (2015), “Global oil market and the U.S. stock returns”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.91.2015* (ISSN: 2037-1209).
+
+Bashiri Behmiri N., Manera M. (2015), “The role of outliers and oil price shocks on volatility of metal prices”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.77.2015* (ISSN: 2037-1209).
+
+Bastianin A., Manera M. (2014), “How does stock market volatility react to oil shocks?”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.110.2014* (ISSN: 2037-1209).
+
+Baiardi D., Manera M., Menegatti M. (2014), “The effects on environmental risk on consumption: an empirical analysis on the Mediterranean countries”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.43.2014* (ISSN: 2037-1209).
+
+Bastianin A., Galeotti M., Manera M. (2014), “Forecasting the oil-gasoline price relationship: should we care about the rockets and the feathers?”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.21.2014* (ISSN: 2037-1209).
+
+Manera M., Nicolini M., Vignati I. (2013), “Futures price volatility in commodities markets: the role of short term vs long term speculation”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.45.2013* (ISSN: 2037-1209).
+
+Bastianin A., Galeotti M., Manera M. (2013), “Food versus fuel: causality and predictability in distribution”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.23.2013* (ISSN: 2037-1209).
+
+Bastianin A., Galeotti M., Manera M. (2013), “Biofuels and food prices: searching for the causal link”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.22.2013* (ISSN: 2037-1209).
+
+Cologni A., Manera M. (2012), “Oil revenues, ethnic fragmentation and political transition of authoritarian regimes”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.24.2012* (ISSN: 2037-1209).
+
+Manera M., Nicolini M., Vignati I. (2012), “Returns in commodities futures markets and financial speculation: a multivariate GARCH approach”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.23.2012* (ISSN: 2037-1209).
+
+Bastianin A., Galeotti M., Manera M. (2011), “Forecast evaluation in call centers: combined forecasts, flexible loss functions and economic criteria”, Università degli studi di Milano, *Research Papers in Economics, Business and Statistics* ([Link](http://services.bepress.om/unimi/economics/art41)).
+
+Bastianin A., Manera M., Markandya A., Scarpa E. (2011), “Oil price forecast evaluation with flexible loss functions”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.91.2011* (ISSN: 2037-1209).
+
+Baiardi D., Manera M., Menegatti M. (2011), “Consumption and precautionary saving: an empirical analysis under both financial and environmental risks”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.62.2011* (ISSN: 2037-1209).
+
+Cologni A., Manera M. (2011), “Exogenous oil shocks, fiscal policy and sector reallocations in oil producing countries”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.55.2011* (ISSN: 2037-1209).
+
+Cologni A., Manera M. (2011), “On the economic determinants of oil production. Theoretical analysis and empirical evidence for small exporting countries”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.54.2011* (ISSN: 2037-1209).
+
+Chiabai A., Grasso M., Manera M., Markandya M. (2010), “The health effects of climate change: a survey of recent quantitative research”, Centre for Research on Energy and Environmental Economics and Policy, Bocconi University, Milan, *IEFE Working Paper n. 27* (ISSN: 1973-0381).
+
+Bigano A., Bastianin A., Cattaneo C., Lanza A., Manera M., Markandya A., Ortiz R., Plotegher M., Sferra F. (2009), “Energy efficiency in Europe: trends, convergence and policy effectiveness”, Basque Centre of Climate Change (BC3), Bilbao, Spain, *BC3 Working Paper*.
+
+Cattaneo C., Manera M., Scarpa E. (2008), “Industrial coal demand in China: a provincial analysis”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.8.2008* (ISSN: 2037-1209).
+
+Galeotti M., Manera M., Lanza A. (2008), “On the robustness of robustness checks of the Environmental Kuznets Curve”, IEFE - Centro di Ricerca in Economia e Politiche dell’Energia e dell’Ambiente, Università Bocconi, Milano, *IEFE Working Paper  n.11* (ISSN: 1973-0381).
+
+Serati M., Manera M., Plotegher M. (2007), “Modelling electricity prices: from the state of the art to a draft of a new proposal”, Università Carlo Cattaneo-Liuc, Castellanza, *Liuc Papers  n.210, Series Economics and Business* **56**, suppl. to november 2007.
+
+Longo C., Manera M., Markandya A., Scarpa E. (2007), “Evaluating the empirical performance of alternative econometric models for oil price forecasting”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.4.2007* (ISSN: 2037-1209).
+
+Scarpa E., Manera M. (2006), “Pricing and hedging illiquid energy derivatives: an application to the JCC index”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.130.2006* (ISSN: 2037-1209).
+
+Cologni A., Manera M. (2006), “The asymmetric effects of oil shocks on output growth: a Markov-switching analysis for the G-7 countries”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.29.2006* (ISSN: 2037-1209).
+
+Galeotti M., Manera M., Lanza A. (2006), “On the robustness of robustness checks of the Environmental Kuznets Curve”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.22.2006* (ISSN: 2037-1209).
+
+Cologni A., Manera M. (2005), “Oil prices, inflation and interest rates in a structural cointegrated VAR model for the G-7 countries”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper  n.101.2005* (ISSN: 2037-1209).
+
+Frey G., Manera M. (2005), “Econometric models of asymmetric price transmission”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 100.2005* (ISSN: 2037-1209).
+
+Cherubini U., Manera M. (2005), “Hunting the living dead: a ‘Peso problem’ in corporate liabilities data”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 76.2005* (ISSN: 2037-1209).
+
+Grasso M., Manera M. (2005), “Asymmetric error correction models for the oil-gasoline price relationship”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 75.2005* (ISSN: 2037-1209).
+
+Manera M. (2005), “Modeling factor demand systems with SEM and VAR: an empirical comparison”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 47.2005* (ISSN: 2037-1209).
+
+Giovannini M., Grasso M., Lanza A., Manera M. (2004), “Conditional correlations in the returns on oil companies stock prices and their determinants”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 71.2004* (ISSN: 2037-1209).
+
+Lanza A., Manera M., Giovannini M., Grasso M. (2004), “Long-run models of oil stock prices”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 96.2004* (ISSN: 2037-1209).
+
+Lanza A., Manera M., McAleer M. (2004), “Modelling dynamic conditional correlations in WTI oil forward and futures returns”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 72.2004* (ISSN: 2037-1209).
+
+Manera M., Marzullo A. (2003), “Modelling the load curve of aggregate electricity consumption using principal components”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 95.2003* (ISSN: 2037-1209).
+
+Lanza A., Manera M., Giovannini M. (2003), “Oil and product price dynamics in international petroleum markets”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 81.2003* (ISSN: 2037-1209).
+
+Busetti G., Manera M. (2003), “STAR-GARCH models for stock market interactions in the Pacific Basin region, Japan and US”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 43.2003* (ISSN: 2037-1209).
+
+Forte G., Manera M. (2002), “Forecasting volatility in European stock markets with non-linear GARCH models”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 98.2002* (ISSN: 2037-1209).
+
+Galeotti M., Lanza A., Manera M. (2002), “Rockets and feathers revisited: an international comparison on European gasoline markets”, Fondazione Eni Enrico Mattei, Milano, *FEEM Working Paper n. 6.2002* (ISSN: 2037-1209).
+
+
 ## Useful links
-- [Google Scholar](https://scholar.google.com)
-- [ORCID](https://orcid.org/)
-- [FEEM](https://www.feem.it)
+[DEMS](https://dems.unimib.it/en)
+[FEEM-EET](https://www.feem.it/ricerca/programmi/econometrics-of-the-energy-transition/)
+[PhD ECOSTATDATA](https://www.dems.unimib.it/en/research/phd-programme)
+[Ideas](http://ideas.repec.org/f/pma580.html)
+[SSRN](http://ssrn.com/author=299771)
+[BOA-IRIS](https://boa.unimib.it/simple-search?query=matteo+manera)
+[ORCID](https://orcid.org/0000-0003-1220-8995)
+[ResearchGate](https://www.researchgate.net/profile/Matteo_Manera)
+[Academia](https://unimb.academia.edu/MatteoManera)
+
+
