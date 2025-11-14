@@ -148,6 +148,7 @@ Manera M. (1994), “Factor demands and substitution in the Italian manufacturin
 Manera M. (1991), “Multivariate non-nested tests for comparing the empirical performance of alternative factor demand systems”, *Giornale degli Economisti e Annali di Economia* **50**, 441-474 (ISSN: 0017-0097; [Link](http://www.jstor.org/stable/23247058)).
 
 *2. Refereed books, contributions to  refereed books and technical reports*
+
 Manera M. (ed.) (2017), *Energy Governance, Institutions and Policy in China and in the EU. A Comparative Assessment*, FEEM Press, Milan, Italy (ISBN: 9788894170146).
 
 Bastianin A., Bigano A., Cattaneo C., Cassinelli M., Cologni A., Manera M., Marazzi L., Markandya A., Pierfederici R., Plotegher M. Sferra F. (2017), "Energy Governance, Institutions and Policies in the EU", in M. Manera (ed.), *Energy Governance, Institutions and Policies in China and the EU*, FEEM Press, Milan, Italy (ISBN: 9788894170146).
@@ -180,6 +181,7 @@ Manera, M. (1998), *Empirical Factor Demands: Specification, Estimation and Infe
 ([Link](https://hdl.handle.net/1814/4998); [DOI](https://doi.org/10.2870/7057270)).
 
 *3. Working papers*
+
 Casoli C., Manera M., Pedini L., Valenti D. (2025), ““It’s not the heat, it’s the humidity!” New climate indices for Europe with a multilevel factor model”, *FEEM Working Paper n.23.2025* (ISSN: 2037-1209).
 
 Pakrooh P., Manera M. (2024), “Causality, connectedness, and volatility pass-through among energy-metal-stock-carbon markets: new evidence from the EU”, *FEEM Working Paper n.22.2024* (ISSN: 2037-1209).
@@ -299,13 +301,22 @@ Galeotti M., Lanza A., Manera M. (2002), “Rockets and feathers revisited: an i
 
 ## Useful links
 [DEMS](https://dems.unimib.it/en)
+
 [FEEM-EET](https://www.feem.it/ricerca/programmi/econometrics-of-the-energy-transition/)
+
 [PhD ECOSTATDATA](https://www.dems.unimib.it/en/research/phd-programme)
+
 [Ideas](http://ideas.repec.org/f/pma580.html)
+
 [SSRN](http://ssrn.com/author=299771)
+
 [BOA-IRIS](https://boa.unimib.it/simple-search?query=matteo+manera)
+
 [ORCID](https://orcid.org/0000-0003-1220-8995)
+
 [ResearchGate](https://www.researchgate.net/profile/Matteo_Manera)
+
 [Academia](https://unimb.academia.edu/MatteoManera)
+
 
 
