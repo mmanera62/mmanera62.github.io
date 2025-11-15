@@ -326,7 +326,7 @@ Galeotti M., Lanza A., Manera M. (2002), “Rockets and feathers revisited: an i
 ## Useful links
 [DEMS](https://dems.unimib.it/en)
 
-[FEEM-EET](https://www.feem.it/ricerca/programmi/econometrics-of-the-energy-transition/)
+[FEEM](https://www.feem.it/ricerca/programmi/econometrics-of-the-energy-transition/)
 
 [PhD ECOSTATDATA](https://www.dems.unimib.it/en/research/phd-programme)
 
